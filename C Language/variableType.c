@@ -35,4 +35,5 @@ int main(){
     printf("Total Marks = %d", total_marks);
 
     return 0;
+
 }
