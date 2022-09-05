@@ -18,5 +18,12 @@ int main() {
     float temparature;
 
     price = 30;
-    printf("%d", price);
+    printf("%d\n", price);
+
+    int alpha = 30;
+    scanf("%d", &alpha);
+    alpha = alpha * 2;
+
+    printf("%d", alpha);
+
 }
